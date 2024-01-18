@@ -3,4 +3,5 @@
 // entity framework and inmemory install manage nugget packet
 // in service create header file anu interface
 // add reference ar damaviwydes
-// 
+// create a controller with given name (in controller folder)
+
